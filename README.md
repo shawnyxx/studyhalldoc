@@ -8,7 +8,8 @@ Je m’appelle Xavier, mais les gens m’appellent Shawny. Je suis cofondateur d
 
 Tout le monde est le bienvenu pour participer à ce projet, mais la modification des contenus pourrait créer de la confusion chez certains lecteurs. C’est pourquoi les articles seront modérés, simplement pour des raisons pratiques.
 
-For the class:
+
+## For the class:
 
 Lien du serveur discord: https://discord.gg/r7kyGDSsHc
 
