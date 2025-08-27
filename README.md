@@ -11,4 +11,5 @@ Tout le monde est le bienvenu pour participer à ce projet, mais la modification
 For the class:
 
 Lien du serveur discord: https://discord.gg/r7kyGDSsHc
+
 Lien du groupe Instagram: https://www.instagram.com/j/Aba8XpeduMVrhLsp
