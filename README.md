@@ -1,4 +1,4 @@
-# Bienvenue sur la Xav Doc (Alias. **The Study Hall Docs**)
+# Bienvenue sur la **Study Hall Docs**
 
 Si vous êtes nouveau ici, je suis en gros un programmeur avec une très mauvaise mémoire et un TDAH assez envahissant. Je suis sous médication, mais j’ai quand même encore quelques difficultés à me souvenir de certaines choses.
 
